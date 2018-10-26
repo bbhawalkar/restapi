@@ -1,2 +1,2 @@
 # User info search using unique id
-**Using Dummy data**
+**Note: Sample data is Dummy from Jsonplaceholder**
